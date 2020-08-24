@@ -1,5 +1,6 @@
 # WebButton_Sprinkler  
 A sprinkler that runs at the push of a WiFi button
+[Video of the Sprinkler](https://github.com/bcguzy/WebButton_Sprinkler/blob/master/media/ezgif-7-719b561e50d5.gif)  
 
 ## Documentation for hardware
 The hardware configuration is the exact same as my [Weather_Sprinkler project](https://github.com/bcguzy/Weather_Sprinkler), just without the deep sleep wire. The same modifications could be made to improve the hardware.  
